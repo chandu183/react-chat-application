@@ -1,5 +1,5 @@
 Looking forward to work on a chat application
 
-Tech stack could be React JS
+Tech stack could be React JS,Typescript with tailwind css
 
 Python
