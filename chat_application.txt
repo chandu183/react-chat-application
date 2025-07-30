@@ -1,0 +1,5 @@
+Looking forward to work on a chat application
+
+Tech stack could be React JS
+
+Python
